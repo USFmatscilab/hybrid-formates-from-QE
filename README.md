@@ -1,4 +1,4 @@
-#Hybrid formates from Quantum Espresso
+# Hybrid formates from Quantum Espresso
 
 The repository gives the hybrid formate perovskite ground states for Maggie Kingsland's dissertation work. 
 
