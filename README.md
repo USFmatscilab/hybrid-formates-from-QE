@@ -2,4 +2,4 @@
 
 The repository gives the hybrid formate perovskite ground states for Maggie Kingsland's dissertation work. 
 
-These structures were obtained from full relaxations of experimental structures using Quantum Espresso (PBE and PBE+D3). 
+These structures were obtained from full relaxations of experimental structures using Quantum Espresso (PBE). 
